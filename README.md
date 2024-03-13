@@ -1,5 +1,5 @@
 # -AI-Driven-Product-Forecasting-for-Drop-shippers
-DropShipProphet: ML-driven tool utilizing Random Forest classification to predict dropshipping suitability. Analyzes product parameters, empowering businesses with data-driven insights for efficient and profitable e-commerce decisions.
+DropShipProject: ML-driven tool utilizing Random Forest classification to predict dropshipping suitability. Analyzes product parameters, empowering businesses with data-driven insights for efficient and profitable e-commerce decisions.
 
 This project focuses on developing a Machine Learning-Based Product Prediction System for dropshippers. The system uses a Random Forest Classifier to predict whether a product is suitable for dropshipping based on various parameters.
 
